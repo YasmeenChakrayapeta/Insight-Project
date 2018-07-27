@@ -16,7 +16,11 @@ Purpose and Use cases
 -----------------------
 
 Daily Active Users - DAU
+
 Monthly Active Users - MAU
+
 DAU/MAU Ratio - 
+
 Sessions/vistiors at each stage
+
 Where do visitors come from? direct or referres
