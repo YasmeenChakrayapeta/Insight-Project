@@ -5,6 +5,9 @@ Project Idea
 
 Clickstream real-time analytics
 
+Technologies
+-------------
+
 Kafka for data ingestion
 
 Spark for streaming for real-time computations
