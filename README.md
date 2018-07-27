@@ -1,5 +1,8 @@
 # Insight-Project
 
+Project Idea
+--------------
+
 Clickstream real-time analytics
 
 Kafka for data ingestion
@@ -8,8 +11,9 @@ Spark for streaming for real-time computations
 
 Amazon Redshift -database
 
-Analytics
 
+Purpose and Use cases
+-----------------------
 
 Daily Active Users - DAU
 Monthly Active Users - MAU
